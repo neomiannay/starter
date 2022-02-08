@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Work Sans, sans-serif;
+}
+
+/* CSS CODE HERE */
+
+/*# sourceMappingURL=style.css.map */
